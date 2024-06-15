@@ -1,0 +1,173 @@
+:root { 
+  --black: #000000;
+  --log-cabin: #222222;
+  --magenta: #ef67a5;
+  --tulip-tree: #edbc43;
+  --white: #ffffff;
+ 
+  --font-size-l: 13px;
+  --font-size-m: 12px;
+  --font-size-xl: 16px;
+  --font-size-xxl: 20px;
+  --font-size-xxxl: 24px;
+  --font-size-xxxxl: 40px;
+  --font-size-xxxxxl: 64px;
+ 
+  --font-family-hiragino_mincho_pron-w6: "Hiragino Mincho ProN-W6", Helvetica;
+  --font-family-lexend_giga: "Lexend Giga", Helvetica;
+  --font-family-lexend_tera: "Lexend Tera", Helvetica;
+  --font-family-noto_sans: "Noto Sans", Helvetica;
+  --font-family-noto_sans_jp: "Noto Sans JP", Helvetica;
+  --font-family-roboto: "Roboto", Helvetica;
+}
+.notosansjp-bold-black-12px {
+  color: var(--black);
+  font-family: var(--font-family-noto_sans_jp);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.notosansjp-bold-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-noto_sans_jp);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.roboto-bold-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.roboto-bold-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.lexendtera-bold-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-lexend_tera);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.roboto-normal-white-12px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lexendtera-normal-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-lexend_tera);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-bold-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.notosansjp-bold-black-40px {
+  color: var(--black);
+  font-family: var(--font-family-noto_sans_jp);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.lexendtera-normal-black-13px {
+  color: var(--black);
+  font-family: var(--font-family-lexend_tera);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lexendtera-normal-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-lexend_tera);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lexendtera-normal-white-13px {
+  color: var(--white);
+  font-family: var(--font-family-lexend_tera);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-normal-black-12px {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lexendtera-normal-log-cabin-16px {
+  color: var(--log-cabin);
+  font-family: var(--font-family-lexend_tera);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-normal-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-bold-black-36px {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.lexendtera-normal-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-lexend_tera);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-bold-black-40px {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.lexendtera-normal-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-lexend_tera);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
